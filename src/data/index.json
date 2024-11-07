@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "Animal Clinic App",
+      "description": "This is a project for my software engineering course where I am a ux/ui designer and this is my first time designing with figma.",
+      "link": {
+        "text": "Try The App",
+        "url": "https://www.figma.com/design/bzPLXm6Nnobw9JHidxy8ix/Animal-Care-Clinic"
+      }
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.jpg",
+      "title": "Phuket Tourism App",
+      "description": "This is a ux/ui design test from a company I had the opportunity to interview. It's a tourism app for Phuket province.",
+      "link": {
+        "text": "Try The App",
+        "url": "https://www.figma.com/design/ZENwvjMaihZS5PheMRwL3i/Phuket-Tourism-App?node-id=0-1&node-type=canvas"
+      }
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.jpg",
+      "title": "Exercise System App",
+      "description": "This is another test from the company, an app that provides information and news related to exercise.",
+      "link": {
+        "text": "Try The App",
+        "url": "https://www.figma.com/design/TTQCVWL6MZGARq1xEUG2eF/Exercise-System--(Mobile-App)"
+      }
+    }
+  ]
+}
