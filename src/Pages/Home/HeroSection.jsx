@@ -10,8 +10,8 @@ export default function HeroSection() {
             Thiwakorn
           </h1>
           <p className="hero--section-description">
-            Students of King Mongkut's University of Technology North Bangkok
-            <br /> Major of Electronic Engineering Technology (Computer)
+            Students of King Mongkut's University
+            <br /> of Technology North Bangkok
           </p>
         </div>
         <button className="btn btn-primary" onClick={() => window.open('https://github.com/yyyayee?tab=repositories', '_blank')}>
